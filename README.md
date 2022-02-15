@@ -1,2 +1,1 @@
-# dw_master_class_sales_forecast
-DataWorkshop Master Class - Sales Forecast
+DataWorkshop Master Class 10-11.02.2022 - predykcja sprzedaży.
